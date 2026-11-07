@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 840" width="520" height="840" fill="none">
+  <g id="sarohub-emblem">
+    
+  <!-- Shape 1: Top-Left Aerodynamic Blade / Wing -->
+  <path d="M 365 8
+           C 374 15 370 26 356 38
+           L 74 554
+           C 52 588 22 576 10 538
+           C 0 495 2 410 45 295
+           C 95 165 210 60 330 14
+           C 345 8 358 4 365 8 Z" fill="#FFFFFF" />
+
+  <!-- Shape 2: Main Body with Crest, Wing/Beak, and Bottom Loop -->
+  <path d="M 390 66
+           C 418 20 454 14 485 44
+           C 516 75 520 180 500 320
+           C 488 400 482 432 518 456
+           C 524 460 520 466 508 468
+           C 475 474 412 470 386 460
+           C 374 455 368 466 376 476
+           C 420 535 464 610 445 710
+           C 420 810 325 835 240 825
+           C 155 815 118 730 115 650
+           C 112 580 156 540 215 540
+           L 390 66 Z" fill="#FFFFFF" />
+
+  <!-- Shape 3: Nestled Circular Dot -->
+  <circle cx="302" cy="744" r="54" fill="#FFFFFF" />
+
+  </g>
+</svg>

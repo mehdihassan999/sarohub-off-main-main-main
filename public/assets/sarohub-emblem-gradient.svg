@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 960" width="600" height="960" fill="none">
+  <defs>
+    <linearGradient id="sarohub-emblem-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE600" />
+      <stop offset="25%" stop-color="#FFA800" />
+      <stop offset="55%" stop-color="#FF5C00" />
+      <stop offset="85%" stop-color="#FF3800" />
+      <stop offset="100%" stop-color="#D61800" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#sarohub-emblem-grad)">
+    <!-- Shape 1: Top-Left Blade / Wing -->
+    <path d="M 382 66
+             C 395 32 376 12 345 18
+             C 300 28 220 85 145 190
+             C 70 295 18 420 8 525
+             C 2 590 18 655 58 685
+             C 82 702 108 692 118 662
+             C 122 650 118 638 112 622
+             L 382 66 Z" />
+
+    <!-- Shape 2: Main Body -->
+    <path d="M 432 58
+             C 455 24 485 18 512 36
+             C 548 60 575 118 588 200
+             C 600 280 588 380 560 460
+             C 545 500 535 525 595 558
+             C 602 562 600 572 590 575
+             C 560 585 470 595 442 590
+             C 432 588 428 596 432 606
+             C 458 665 480 735 465 810
+             C 445 905 370 955 275 958
+             C 185 960 115 905 92 825
+             C 70 750 85 660 145 580
+             C 178 535 220 480 258 430
+             L 432 58 Z" />
+
+    <!-- Shape 3: Bottom Cradle Circle -->
+    <circle cx="350" cy="855" r="65" />
+  </g>
+</svg>
